@@ -22,3 +22,5 @@ User can perform multiple task in this app.
   
 ## Contact Me
 * Email: rohitchinthaparthi@gmail.com
+# Author
+* ROHIT CHINTHAPARTHI
