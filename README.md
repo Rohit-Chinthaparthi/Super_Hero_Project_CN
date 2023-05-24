@@ -16,7 +16,7 @@ User can perform multiple task in this app.
 * Scripting/Programming - Javascript
 * IDE - VSCode
    
-### Link of Project: file:///C:/Users/rohit/Downloads/Super_Hero_Project_CN-main/Super_Hero_Project_CN-main/favHeroes.html
+### Link of Project: http://127.0.0.1:5500/Super_Hero_Project_CN-main/index.html
 
 ### Youtube Video Link: 
   
