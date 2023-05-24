@@ -16,7 +16,7 @@ User can perform multiple task in this app.
 * Scripting/Programming - Javascript
 * IDE - VSCode
    
-### Link of Project: http://127.0.0.1:5500/Super_Hero_Project_CN-main/index.html
+### Link of Project: https://rohit-chinthaparthi.github.io/Super_Hero_Project_CN/
 
 ### Youtube Video Link: 
   
